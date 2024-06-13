@@ -97,4 +97,5 @@ cd Prediccion-Demanda-Energia-SARIMA</code></pre>
 <h3 align="center" >Predicciones SARIMA</h3>
 <img src="https://github.com/MagoPato/Prediccion-Demanda-Energia-SARIMA/blob/main/datos_predecidos.png?raw=true" alt="Predicciones SARIMA" width="650">
 </div>
-
+<h2>Conclusión</h2>
+<p>La predicción de la demanda de energía eléctrica es crucial para gestionar de manera eficiente los recursos energéticos. En este proyecto, utilizando un modelo SARIMA, se logró predecir la demanda futura con base en datos históricos. Un hallazgo interesante fue que el consumo de energía ha aumentado con el tiempo, lo que inicialmente parecía estar correlacionado con el aumento en el número de alumnos en la institución. Sin embargo, considerando que el número de salones no ha cambiado, se concluyó que este incremento en la demanda se debe probablemente a una falla en algún lugar del sistema, falta de mantenimiento en las subestaciones eléctricas, uso incrementado de dispositivos eléctricos como climas o minisplits, o a otros factores similares. Identificar y resolver estos problemas es esencial para evitar aumentos innecesarios en el consumo de energía.</p>
